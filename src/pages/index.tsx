@@ -16,8 +16,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const features = [
   {
-    title: 'We experimernt',
-    description: <>We try new platforms according to users order.</>,
+    title: 'We experiment',
+    description: <>We try new platforms according to user's order.</>,
   },
   {
     title: "What's next?",
