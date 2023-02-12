@@ -14,7 +14,7 @@ const config = {
   title: 'DreamX',
   tagline:
     'We create apps, games and websites. Customer can also request to create one.',
-  url: 'https://multiseven.netlify.com',
+  url: 'https://dreamx-hq.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
